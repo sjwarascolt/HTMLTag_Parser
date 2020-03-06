@@ -1,0 +1,234 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/pwaterman's home/cs315/Project4/Album.cpp
+Album.hpp
+/Volumes/pwaterman's home/cs315/Project4/Album.hpp
+Pair.hpp
+/Volumes/pwaterman's home/cs315/Project4/Pair.hpp
+AlbumImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/AlbumImage.hpp
+Artists.hpp
+/Volumes/pwaterman's home/cs315/Project4/Artists.hpp
+Tracks.hpp
+/Volumes/pwaterman's home/cs315/Project4/Tracks.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Album.hpp
+fstream
+-
+cstring
+-
+vector
+-
+JSONDataObject.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONDataObject.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/AlbumImage.cpp
+AlbumImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/AlbumImage.hpp
+Pair.hpp
+/Volumes/pwaterman's home/cs315/Project4/Pair.hpp
+Albums.hpp
+/Volumes/pwaterman's home/cs315/Project4/Albums.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/AlbumImage.hpp
+iostream
+-
+fstream
+-
+cstring
+-
+vector
+-
+JSONDataObject.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONDataObject.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Albums.cpp
+Albums.hpp
+/Volumes/pwaterman's home/cs315/Project4/Albums.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Albums.hpp
+JSONArray.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONArray.hpp
+Album.hpp
+/Volumes/pwaterman's home/cs315/Project4/Album.hpp
+AlbumImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/AlbumImage.hpp
+Artists.hpp
+/Volumes/pwaterman's home/cs315/Project4/Artists.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/AlbumsImage.cpp
+AlbumsImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/AlbumsImage.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/AlbumsImage.hpp
+JSONArray.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONArray.hpp
+Albums.hpp
+/Volumes/pwaterman's home/cs315/Project4/Albums.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Artist.cpp
+Artist.hpp
+/Volumes/pwaterman's home/cs315/Project4/Artist.hpp
+ArtistImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/ArtistImage.hpp
+Albums.hpp
+/Volumes/pwaterman's home/cs315/Project4/Albums.hpp
+Pair.hpp
+/Volumes/pwaterman's home/cs315/Project4/Pair.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Artist.hpp
+fstream
+-
+cstring
+-
+vector
+-
+JSONDataObject.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONDataObject.hpp
+iostream
+-
+Tracks.hpp
+/Volumes/pwaterman's home/cs315/Project4/Tracks.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/ArtistImage.cpp
+ArtistImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/ArtistImage.hpp
+Pair.hpp
+/Volumes/pwaterman's home/cs315/Project4/Pair.hpp
+Artists.hpp
+/Volumes/pwaterman's home/cs315/Project4/Artists.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/ArtistImage.hpp
+iostream
+-
+fstream
+-
+cstring
+-
+vector
+-
+JSONDataObject.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONDataObject.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Artists.cpp
+Artists.hpp
+/Volumes/pwaterman's home/cs315/Project4/Artists.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Artists.hpp
+JSONArray.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONArray.hpp
+ArtistImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/ArtistImage.hpp
+Artist.hpp
+/Volumes/pwaterman's home/cs315/Project4/Artist.hpp
+Albums.hpp
+/Volumes/pwaterman's home/cs315/Project4/Albums.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/ArtistsImage.cpp
+ArtistsImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/ArtistsImage.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/ArtistsImage.hpp
+ArtistImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/ArtistImage.hpp
+JSONArray.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONArray.hpp
+Artists.hpp
+/Volumes/pwaterman's home/cs315/Project4/Artists.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/JSONArray.cpp
+JSONArray.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONArray.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/JSONArray.hpp
+JSONDataObject.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONDataObject.hpp
+JSONTokenizer.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONTokenizer.hpp
+JSONToken.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONToken.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/JSONDataObject.hpp
+string
+-
+vector
+-
+JSONTokenizer.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONTokenizer.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/JSONToken.hpp
+iostream
+-
+iomanip
+-
+string
+-
+
+/Volumes/pwaterman's home/cs315/Project4/JSONTokenizer.hpp
+string
+-
+fstream
+-
+iostream
+-
+JSONToken.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONToken.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Pair.hpp
+string
+-
+vector
+-
+
+/Volumes/pwaterman's home/cs315/Project4/Track.cpp
+Track.hpp
+/Volumes/pwaterman's home/cs315/Project4/Track.hpp
+Pair.hpp
+/Volumes/pwaterman's home/cs315/Project4/Pair.hpp
+iostream
+-
+Tracks.hpp
+/Volumes/pwaterman's home/cs315/Project4/Tracks.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Track.hpp
+fstream
+-
+cstring
+-
+vector
+-
+JSONDataObject.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONDataObject.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Tracks.cpp
+Tracks.hpp
+/Volumes/pwaterman's home/cs315/Project4/Tracks.hpp
+Albums.hpp
+/Volumes/pwaterman's home/cs315/Project4/Albums.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/Tracks.hpp
+JSONArray.hpp
+/Volumes/pwaterman's home/cs315/Project4/JSONArray.hpp
+Track.hpp
+/Volumes/pwaterman's home/cs315/Project4/Track.hpp
+
+/Volumes/pwaterman's home/cs315/Project4/main.cpp
+iostream
+-
+Artists.hpp
+/Volumes/pwaterman's home/cs315/Project4/Artists.hpp
+ArtistsImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/ArtistsImage.hpp
+AlbumsImage.hpp
+/Volumes/pwaterman's home/cs315/Project4/AlbumsImage.hpp
+fstream
+-
+cstring
+-
+

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Volumes/pwaterman&apos;s home/cs315/Project4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Volumes/pwaterman&apos;s home/cs315/Project4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Volumes/pwaterman&apos;s home/cs315/Project4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project4">
+				<Option output="/Volumes/pwaterman&apos;s home/cs315/Project4/cmake-build-debug/Project4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/pwaterman&apos;s home/cs315/Project4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project4/fast">
+				<Option output="/Volumes/pwaterman&apos;s home/cs315/Project4/cmake-build-debug/Project4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/pwaterman&apos;s home/cs315/Project4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Volumes/pwaterman&apos;s\ home/cs315/Project4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Album.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Album.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/AlbumImage.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/AlbumImage.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Albums.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Albums.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/AlbumsImage.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/AlbumsImage.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Artist.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Artist.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/ArtistImage.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/ArtistImage.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Artists.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Artists.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/ArtistsImage.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/ArtistsImage.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/JSONArray.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/JSONArray.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/JSONDataObject.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/JSONDataObject.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/JSONToken.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/JSONToken.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/JSONTokenizer.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/JSONTokenizer.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Pair.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Pair.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Track.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Track.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Tracks.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/Tracks.hpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/main.cpp">
+			<Option target="Project4"/>
+		</Unit>
+		<Unit filename="/Volumes/pwaterman&apos;s home/cs315/Project4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
